@@ -1,2 +1,0 @@
-# Depo
-Deneme
